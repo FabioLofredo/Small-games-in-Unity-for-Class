@@ -1,6 +1,6 @@
 # Small-games-in-Unity-for-Teaching
 
-Games created by Fábio Lofredo Cesar in 2022, using Unity and C#, for teach students from high school how to code and make games
+"I created these games as examples for seven high school technology classes. All the videos and games below were produced by me."
 
 https://youtu.be/e4NozORcyOE
 
